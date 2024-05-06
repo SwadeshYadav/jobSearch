@@ -1,0 +1,8 @@
+.description {
+  max-height: 4em;
+  overflow: hidden;
+}
+
+.show-more {
+  max-height: none;
+}
